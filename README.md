@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashanth Sanga</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# <h1 align="center">Hi 👋, I'm PRASHANTH SANGA</h1>
+
 
 # AI ENTHUSIAST & FUL STACK DEVELOPER
 
