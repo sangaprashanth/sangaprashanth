@@ -85,4 +85,28 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-red)](mailto:mahesh.ketam@example.com)
 
 
+## 💬 Let's Connect!
 
+<div align="center">
+  <p>I'm always open to discussing tech, collaboration, or just geeking out over cool projects!</p>
+  
+  <a href="https://linkedin.com/in/prashanthsanga/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:sangaprashanth3@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
+  </a>
+</div>
+
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+
+  <h3><strong>Thank you for visiting my GitHub profile!</strong></h3>
+  <p>Keep building, stay curious, and never stop learning. 🚀</p>
+  
+  😊
+</div>
