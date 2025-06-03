@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm PRASHANTH SANGA | AI ENTHUSIAST & FUL STACK DEVELOPER</h1>
+# <h1 align="center">Hi 👋, I'm PRASHANTH SANGA</h1>
 
 
 <div align="center">
