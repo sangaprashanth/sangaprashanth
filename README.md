@@ -3,6 +3,12 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=PRASHANTH%20SANGA&fontSize=70&animation=fadeIn" width="100%">
+
+<div align="center">
+
+### 🚀 Full Stack Developer | 🧠 Tech Enthusiast | 📚 Lifelong Learner
+
+</div>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=sangaprashanth&style=flat-square" alt="Profile Views">
@@ -15,11 +21,6 @@
   </p>
 </div>
 
-<div align="center">
-
-### 🚀 Full Stack Developer | 🧠 Tech Enthusiast | 📚 Lifelong Learner
-
-</div>
 
 ## 🎯 Mission Statement
 > **"As a passionate and curious developer, my mission is to build meaningful, scalable, and user-centric web solutions that bridge the gap between technology and real-world impact. I aim to continuously grow through learning, collaboration, and innovation—crafting code that not only works but inspires."**
@@ -56,9 +57,7 @@
 
 
 
----
-
-### 🚀 Interactive Timeline
+## 🚀 Interactive Timeline
 
 ```mermaid
 timeline
@@ -75,7 +74,7 @@ timeline
 
 
 
----
+
 ### 🛠 Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />&nbsp;&nbsp;
@@ -84,7 +83,7 @@ timeline
 </div>
 
 
----
+
 
 ## 🌐 Socials:
 
@@ -97,7 +96,6 @@ timeline
 
 </div>
 
----
 
 
 # 📊 GitHub Stats:
@@ -112,14 +110,13 @@ timeline
 </div>
 
 
----
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
 
 
 ## 🏆 GitHub Trophies
@@ -137,7 +134,7 @@ timeline
 
 
 
----
+
 
 ## 🏆 Achievements & Certifications
 
@@ -171,7 +168,7 @@ timeline
   </table>
 </div>
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -187,7 +184,7 @@ Specific Focus Areas:
 - Exploring deep learning and advanced machine learning architectures
 - Participating in AI research and innovative project developments
 
----
+
 
 ## 💬 Let's Connect!
 
@@ -203,7 +200,7 @@ Specific Focus Areas:
 </div>
 
 
----
+
 
 <div align="center">
   
