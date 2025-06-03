@@ -36,7 +36,6 @@
 
 ### 💻 What I Do
 - 🌐 Web Development (HTML, CSS, JavaScript, React.JS, )
-- 🤖 Working on a **Recommendation System Based on Customer Reviews** & **Health Monitoring on Social Media Overtime**as my final year projects
 - 🔍 Learning and experimenting with AI/ML and modern frontend tools
 - 📚 Sharing knowledge through content on **Binance Square** (Web3, crypto, and tech-related)
 
